@@ -1,4 +1,4 @@
-# Flask Kubernetes Deployment
+# Flask Application Deployment on Kubernetes using Docker and Minikube
 
 A cloud-native Flask web application deployed using Docker and Kubernetes.
 
@@ -75,6 +75,13 @@ The application was successfully deployed on Kubernetes and accessed through a K
 Output:
 
 Hello from Kubernetes!
+
+Deployment Results
+
+- Successfully deployed application on Kubernetes
+- Scaled deployment from 2 to 5 replicas
+- Verified service accessibility through Minikube
+- Managed pods and deployments using kubectl
 
 ## Learning Outcomes
 
